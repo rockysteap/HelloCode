@@ -1,6 +1,6 @@
 # GeekBrains - Introducing to C#
 
-### Lecture 1
+### Lectures
 
 <br>
 First code examples
